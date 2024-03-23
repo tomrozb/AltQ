@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Alt + Q Bytt siste aktive faner"
+    "message": "Bytt siste faner"
   },
   "appDesc": {
-    "message": "Bytt mellom den aktive fanen og den tidligere viste en ved hjelp av hurtigtasten Alt + Q."
-  },
-  "defaultTitle": {
-    "message": "Bytt fane"
+    "message": "Bruk snarveien <Alt + Q> (eller definer din egen) for å bytte mellom de to sist brukte fanene. Krever en engangsbetaling."
   }
 }

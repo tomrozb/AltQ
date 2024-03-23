@@ -1,14 +1,8 @@
 {
   "appName": {
-    "message": "Tukar Tab Terkini"
+    "message": "Tukar Tab Terakhir"
   },
   "appDesc": {
-    "message": "Dengan Alt + Q"
-  },
-  "defaultTitle": {
-    "message": "Tukar tab"
-  },
-  "contextMenu": {
-    "message": "Pergi ke tab sebelumnya yang dilihat selepas menutup semasa"
+    "message": "Gunakan pintasan <Alt + Q> (atau tentukan sendiri) untuk bertukar antara dua tab terakhir anda yang digunakan. Memerlukan bayaran sekali sahaja."
   }
 }

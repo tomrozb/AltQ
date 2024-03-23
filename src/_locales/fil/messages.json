@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Lumipat ang Alt + Q Kamakailang Mga Aktibong Tab"
+    "message": "Lumipat ng Mga Huling Tab"
   },
   "appDesc": {
-    "message": "Lumipat sa pagitan ng iyong aktibong tab at ng dati nang tiningnan gamit ang keyboard shortcut na Alt + Q."
-  },
-  "defaultTitle": {
-    "message": "Lumipat ng Mga Tab"
+    "message": "Gamitin ang shortcut <Alt + Q> (o tukuyin ang sarili mo) upang lumipat sa pagitan ng iyong dalawang huling ginamit na tab. Nangangailangan ng isang beses na pagbabayad."
   }
 }

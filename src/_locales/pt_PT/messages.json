@@ -1,8 +1,8 @@
 {
   "appName": {
-    "message": "Toggle Switch recente Última Tabs"
+    "message": "Alternar últimas guias"
   },
   "appDesc": {
-    "message": "Alternar entre a sua guia atual e a última guia usada recentemente, pressionando Alt + Q no seu teclado."
+    "message": "Use o atalho <Alt + Q> (ou defina o seu próprio) para alternar entre as duas últimas guias usadas. Requer um pagamento único."
   }
 }

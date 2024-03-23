@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Alt + Q Letzte Aktive Tabs"
+    "message": "Letzte Tabs wechseln"
   },
   "appDesc": {
-    "message": "Wechseln Sie mit der Tastenkombination Alt + Q zwischen dem aktiven und dem zuvor angezeigten Tab."
-  },
-  "defaultTitle": {
-    "message": "Tabs wechseln"
+    "message": "Verwenden Sie die Tastenkombination <Alt + Q> (oder definieren Sie eine eigene), um zwischen Ihren beiden zuletzt verwendeten Tabs zu wechseln. Erfordert eine einmalige Zahlung."
   }
 }

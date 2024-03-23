@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Alt + Q Prepnúť na posledné aktívne karty"
+    "message": "Prepnúť posledné karty"
   },
   "appDesc": {
-    "message": "Prepínajte medzi aktívnou kartou a predtým zobrazenou pomocou klávesovej skratky Alt + Q."
-  },
-  "defaultTitle": {
-    "message": "Prepnúť karty"
+    "message": "Na prepínanie medzi dvoma naposledy použitými kartami použite skratku <Alt + Q> (alebo definujte svoju vlastnú). Vyžaduje sa jednorazová platba."
   }
 }

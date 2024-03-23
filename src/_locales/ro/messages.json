@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Alt + Q Comutați filele active recente"
+    "message": "Comutați ultimele file"
   },
   "appDesc": {
-    "message": "Comutați între fila dvs. activă și cea vizualizată anterior utilizând comanda rapidă de la tastatură Alt + Q."
-  },
-  "defaultTitle": {
-    "message": "Comutați filele"
+    "message": "Utilizați comanda rapidă <Alt + Q> (sau definiți-vă propria) pentru a comuta între ultimele două file utilizate. Necesită o singură plată."
   }
 }

@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Alt + Q Cambiar pestañas activas recientes"
+    "message": "Cambiar las últimas pestañas"
   },
   "appDesc": {
-    "message": "Cambie entre su pestaña activa y la vista anteriormente usando el atajo de teclado Alt + Q."
-  },
-  "defaultTitle": {
-    "message": "Cambiar pestañas"
+    "message": "Utilice el atajo <Alt + Q> (o defina el suyo propio) para cambiar entre las dos últimas pestañas utilizadas. Requiere un pago único."
   }
 }

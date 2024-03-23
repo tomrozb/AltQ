@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Alt + Q Byt senaste aktiva flikar"
+    "message": "Byt sista flikar"
   },
   "appDesc": {
-    "message": "Växla mellan din aktiva flik och den tidigare visade med tangentbordsgenvägen Alt + Q."
-  },
-  "defaultTitle": {
-    "message": "Byt flikar"
+    "message": "Använd genvägen <Alt + Q> (eller definiera din egen) för att växla mellan dina två senast använda flikar. Kräver en engångsbetalning."
   }
 }

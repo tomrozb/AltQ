@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Alt + Q Canvia les pestanyes actives recents"
+    "message": "Canvia les darreres pestanyes"
   },
   "appDesc": {
-    "message": "Canvieu entre la pestanya activa i la visualitzada anteriorment mitjançant la drecera de teclat Alt + Q."
-  },
-  "defaultTitle": {
-    "message": "Canvia de pestanya"
+    "message": "Utilitzeu la drecera <Alt + Q> (o definiu la vostra) per canviar entre les dues darreres pestanyes utilitzades. Requereix un pagament únic."
   }
 }

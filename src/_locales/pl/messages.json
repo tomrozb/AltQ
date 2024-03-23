@@ -1,14 +1,8 @@
 {
   "appName": {
-    "message": "Zmień ostatnie karty"
+    "message": "Przełącz ostatnie karty"
   },
   "appDesc": {
-    "message": "Z Alt + Q"
-  },
-  "defaultTitle": {
-    "message": "Przełącz karty"
-  },
-  "contextMenu": {
-    "message": "Przejdź do poprzednio oglądanej karty po zamknięciu bieżącego"
+    "message": "Użyj skrótu <Alt + Q> (lub zdefiniuj własny), aby przełączać się między dwiema ostatnio używanymi zakładkami. Wymaga jednorazowej płatności."
   }
 }

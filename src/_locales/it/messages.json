@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Alt + Q Cambia le schede attive recenti"
+    "message": "Cambia le ultime schede"
   },
   "appDesc": {
-    "message": "Passa dalla scheda attiva a quella visualizzata in precedenza utilizzando la scorciatoia da tastiera Alt + Q."
-  },
-  "defaultTitle": {
-    "message": "Cambia scheda"
+    "message": "Usa la scorciatoia <Alt + Q> (o definisci la tua) per passare tra le ultime due schede utilizzate. Richiede un pagamento una tantum."
   }
 }

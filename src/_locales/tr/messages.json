@@ -1,11 +1,8 @@
 {
   "appName": {
-    "message": "Alt + Q Son Etkin Sekmeleri Değiştir"
+    "message": "Son Sekmeleri Değiştir"
   },
   "appDesc": {
-    "message": "Alt + Q klavye kısayolunu kullanarak etkin sekmeniz ile önceden görüntülenen arasında geçiş yapın."
-  },
-  "defaultTitle": {
-    "message": "Sekmeleri Değiştir"
+    "message": "Son kullandığınız iki sekme arasında geçiş yapmak için <Alt + Q> kısayolunu kullanın (veya kendi sekmenizi tanımlayın). Bir kerelik ödeme gerektirir."
   }
 }
